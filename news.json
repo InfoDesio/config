@@ -5,11 +5,6 @@
     "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/newsdesio.xml"
   },
   {
-    "ID": "newsletterdesio",
-    "Nome": "Newsletter Comune Desio",
-    "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/newsletterdesio.xml"
-  },
-  {
     "ID": "prati",
     "Nome": "Scuola Prati",
     "URL": "http://www.icpratidesio.it/feed"
