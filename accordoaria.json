@@ -1,5 +1,5 @@
 {
-  "LIVELLO1": {
+  "LIVELLO 1": {
     "DIVIETI": [
       "Stop alle autovetture private diesel di categoria inferiore o uguale a euro 4 dalle 8.30 alle 18.30",
       "Stop ai veicoli commerciali diesel di categoria inferiore o uguale a euro 3 dalle 8.30 alle 12.30",
@@ -11,7 +11,7 @@
       "Divieto di spandimento di liquami zootecnici"
     ]
   },
-  "LIVELLO2": {
+  "LIVELLO 2": {
     "DIVIETI": [
       "Stop alle autovetture private diesel di categoria inferiore o uguale a euro 4 dalle 8.30 alle 18.30",
       "Stop ai veicoli commerciali diesel inferiori o uguali a euro 3 dalle 8.30 alle 18.30 \ne ai veicoli commerciali diesel inferiori o uguali a euro 4, dalle 8.30 alle 12.30",
