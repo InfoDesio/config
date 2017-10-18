@@ -1,0 +1,26 @@
+{
+  "LIVELLO1": {
+    "DIVIETI": [
+      "Stop alle autovetture private diesel di categoria inferiore o uguale a euro 4 dalle 8.30 alle 18.30",
+      "Stop ai veicoli commerciali diesel di categoria inferiore o uguale a euro 3 dalle 8.30 alle 12.30",
+      "Divieto di sosta con motore acceso per tutti i veicoli",
+      "Potenziamento dei controlli sulla circolazione dei veicoli nei centri urbani",
+      "Divieto di utilizzo dei generatori a legna per il riscaldamento domestico (in presenza di impianto alternativo) con classe di prestazione emissiva inferiore a 3 stelle",
+      "Introduzione del limite a 19 gradi centigradi (con tolleranza di 2 gradi) per le temperature medie nelle abitazioni e spazi ed esercizi commerciali",
+      "Divieto di combustione all'aperto (residui vegetali, falò, barbecue, ecc.)",
+      "Divieto di spandimento di liquami zootecnici"
+    ]
+  },
+  "LIVELLO2": {
+    "DIVIETI": [
+      "Stop alle autovetture private diesel di categoria inferiore o uguale a euro 4 dalle 8.30 alle 18.30",
+      "Stop ai veicoli commerciali diesel inferiori o uguali a euro 3 dalle 8.30 alle 18.30 \ne ai veicoli commerciali diesel inferiori o uguali a euro 4, dalle 8.30 alle 12.30",
+      "Divieto di sosta con motore acceso per tutti i veicoli",
+      "Potenziamento dei controlli sulla circolazione dei veicoli nei centri urbani",
+      "Divieto di utilizzo dei generatori a legna per il riscaldamento domestico (in presenza di impianto alternativo) con classe di prestazione emissiva inferiore a 4 stelle",
+      "Introduzione del limite a 19 gradi centigradi (con tolleranza di 2 gradi) per le temperature medie nelle abitazioni e spazi ed esercizi commerciali",
+      "Divieto di combustione all'aperto (residui vegetali, falò, barbecue, ecc.)",
+      "Divieto di spandimento di liquami zootecnici"
+    ]
+  }
+}
