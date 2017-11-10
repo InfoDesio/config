@@ -8,5 +8,10 @@
     "Repository": "infocitta",
     "Folder": "pediatri",
     "File": "pediatri.json"
+  },
+  {
+    "Repository": "infocitta",
+    "Folder": "medici",
+    "File": "medici.json"
   }
 ]
