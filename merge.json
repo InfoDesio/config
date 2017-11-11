@@ -13,5 +13,10 @@
     "Repository": "infocitta",
     "Folder": "medici",
     "File": "medici.json"
+  },
+  {
+    "Repository": "infocitta",
+    "Folder": "comune",
+    "File": "comunedesio.json"
   }
 ]
