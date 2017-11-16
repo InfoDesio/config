@@ -2,21 +2,53 @@
   {
     "Nome": "Gastronomia Safran",
     "URL": "Gastronomia.Safran",
-    "Type": "Facebook"
+    "Type": "Facebook",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.61597,
+      "longitude": 9.20669,
+      "street": "Garibaldi, 55",
+      "zip": "20832"
+    }
   },
   {
     "Nome": "L'accademia Della Pasta",
     "URL": "laccademia.desio.it",
-    "Type": "Facebook"
+    "Type": "Facebook",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.618387,
+      "longitude": 9.1969339,
+      "street": "via Carso angolo via milano 219",
+      "zip": "20832"
+    }
   },
   {
     "Nome": "L'uovo",
     "URL": "luovocaffetteria",
-    "Type": "Facebook"
+    "Type": "Facebook",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.607834,
+      "longitude": 9.2033561,
+      "street": "via Giuseppe Garibaldi 275",
+      "zip": "20832"
+    }
   },
   {
     "Nome": "Ristorante Pizzeria Il Tramonto",
     "URL": "ristorantepizzeriailtramonto",
-    "Type": "Facebook"
-  }  
+    "Type": "Facebook",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.619514353333,
+      "longitude": 9.2160755701587,
+      "street": "Via XXV Aprile, 5",
+      "zip": "42124"
+    }
+  }
 ]
