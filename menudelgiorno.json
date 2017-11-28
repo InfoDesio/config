@@ -26,19 +26,6 @@
     }
   },
   {
-    "Nome": "L'uovo",
-    "URL": "luovocaffetteria",
-    "Type": "Facebook",
-    "location": {
-      "city": "Desio",
-      "country": "Italy",
-      "latitude": 45.607834,
-      "longitude": 9.2033561,
-      "street": "via Giuseppe Garibaldi 275",
-      "zip": "20832"
-    }
-  },
-  {
     "Nome": "Ristorante Pizzeria Il Tramonto",
     "URL": "ristorantepizzeriailtramonto",
     "Type": "Facebook",
