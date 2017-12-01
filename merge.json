@@ -23,5 +23,10 @@
     "Repository": "infocitta",
     "Folder": "veterinari",
     "File": "veterinari.json"
+  },
+  {
+    "Repository": "infocitta",
+    "Folder": "scuola_infanzia",
+    "File": "scuola_infanzia.json"
   }
 ]
