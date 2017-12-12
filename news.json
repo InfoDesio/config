@@ -2,16 +2,19 @@
   {
     "ID": "comune",
     "Nome": "News sito Comune Desio",
-    "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/newsdesio.xml"
+    "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/newsdesio.xml",
+    "Visibile": true
   },
   {
     "ID": "prati",
     "Nome": "Scuola Prati",
-    "URL": "https://www.icpratidesio.gov.it/feed/"
+    "URL": "https://www.icpratidesio.gov.it/feed/",
+    "Visibile": true
   },
   {
     "ID": "agnesi",
     "Nome": "Scuola Agnesi",
-    "URL": "http://www.ic-agnesidesio.gov.it/wordpress/?feed=rss2"
+    "URL": "http://www.ic-agnesidesio.gov.it/wordpress/?feed=rss2",
+    "Visibile": true
   }
 ]
