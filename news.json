@@ -6,6 +6,12 @@
     "Visibile": true
   },
   {
+    "ID": "newsletterdesio",
+    "Nome": "Newsletter Desio",
+    "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/newsletterdesio.xml",
+    "Visibile": false
+  },  
+  {
     "ID": "prati",
     "Nome": "Scuola Prati",
     "URL": "https://www.icpratidesio.gov.it/feed/",
