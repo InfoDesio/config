@@ -3,7 +3,7 @@
     "ID": "comune",
     "Nome": "News sito Comune Desio",
     "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/newsdesio.xml",
-    "Visibile": true
+    "Visibile": false
   },
   {
     "ID": "newsletterdesio",
