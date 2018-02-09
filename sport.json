@@ -3,5 +3,15 @@
     "Nome": "Atletica Desio",
     "URL": "AtleticaDesio",
     "Type": "Facebook"
-  }
+  },
+  {
+    "Nome": "Gruppo Marciatori Desio",
+    "URL": "GruppoMarciatoriDesio",
+    "Type": "Facebook"
+  },  
+  {
+    "Nome": "Pallacanestro Aurora Desio",
+    "URL": "pallacanestroauroradesio",
+    "Type": "Facebook"
+  }  
 ]
