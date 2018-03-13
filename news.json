@@ -12,6 +12,12 @@
     "Visibile": false
   },  
   {
+    "ID": "storicoattidesio",
+    "Nome": "Storico Atti Desio",
+    "URL": "https://raw.githubusercontent.com/ipersoft/rss/master/attidesio.xml",
+    "Visibile": false
+  },  
+  {
     "ID": "prati",
     "Nome": "Scuola Prati",
     "URL": "https://www.icpratidesio.gov.it/feed/",
