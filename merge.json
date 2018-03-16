@@ -38,6 +38,11 @@
     "Repository": "infocitta",
     "Folder": "sanitario",
     "File": "sanitario.json"
+  },
+  {
+    "Repository": "infocitta",
+    "Folder": "muratori",
+    "File": "muratori.json"
   }
   
   
