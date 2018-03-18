@@ -48,6 +48,11 @@
     "Repository": "infocitta",
     "Folder": "falegnami",
     "File": "falegnami.json"
+  },
+  {
+    "Repository": "infocitta",
+    "Folder": "architetti",
+    "File": "architetti.json"
   }
   
   
