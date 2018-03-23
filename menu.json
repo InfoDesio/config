@@ -1,0 +1,72 @@
+[
+  {
+    "ICON": "f015",
+    "TITLE": "HOME",
+    "SUBTITLE": "",
+    "ACTION": {
+      "TYPE": "WEB",
+      "LINK": "https://raw.githubusercontent.com/InfoDesio/config/master/home.html"
+    }
+  },
+  {
+    "ICON": "e878",
+    "TITLE": "Eventi",
+    "SUBTITLE": "",
+    "SUBMENU": [
+      {
+        "ICON": "e878",
+        "TEXT": "Comune di Desio",
+        "SUBTEXT": "Eventi promossi dal comune di Desio",
+        "ACTION": {
+          "TYPE": "EVENTFB",
+          "SOURCE": [
+            {
+              "Nome": "Comune di Desio",
+              "URL": "Comune.di.Desio"
+            },
+            {
+              "Nome": "Desio dal Vivo",
+              "URL": "Desio.dal.Vivo"
+            }
+          ]
+        }
+      },
+      {
+        "ICON": "e878",
+        "TEXT": "Live in Desio",
+        "SUBTEXT": "Raccolta eventi by Live in Desio",
+        "ACTION": {
+          "TYPE": "EVENTFB",
+          "SOURCE": [
+            {
+              "Nome": "Live in Desio",
+              "URL": "live.in.desio"
+            }
+          ]
+        }
+      },
+      {
+        "ICON": "e878",
+        "TEXT": "sPORT",
+        "SUBTEXT": "Eventi dalle associazioni sportive",
+        "ACTION": {
+          "TYPE": "EVENTFB",
+          "SOURCE": [
+            {
+              "Nome": "Atletica Desio",
+              "URL": "AtleticaDesio"
+            },
+            {
+              "Nome": "Gruppo Marciatori Desio",
+              "URL": "GruppoMarciatoriDesio"
+            },
+            {
+              "Nome": "Pallacanestro Aurora Desio",
+              "URL": "pallacanestroauroradesio"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
