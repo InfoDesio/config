@@ -37,5 +37,18 @@
       "street": "Via XXV Aprile, 5",
       "zip": "42124"
     }
+  },
+  {
+    "Nome": "Tulipano Nero Bistrò",
+    "URL": "229376631201588",
+    "Type": "Facebook",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.616587,
+      "longitude": 9.203247,
+      "street": "Via Pompei Trezzi, 1",
+      "zip": "20832"
+    }
   }
 ]
